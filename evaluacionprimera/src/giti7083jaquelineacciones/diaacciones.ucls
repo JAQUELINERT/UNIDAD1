@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="giti7083jaquelineacciones.Hombre" project="evaluacionprimera" 
+    file="/evaluacionprimera/src/giti7083jaquelineacciones/Hombre.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="115" x="800" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="giti7083jaquelineacciones.Animal" project="evaluacionprimera" 
+    file="/evaluacionprimera/src/giti7083jaquelineacciones/Animal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="115" x="463" y="205"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="giti7083jaquelineacciones.Humano" project="evaluacionprimera" 
+    file="/evaluacionprimera/src/giti7083jaquelineacciones/Humano.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="115" x="871" y="205"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="giti7083jaquelineacciones.Test" project="evaluacionprimera" 
+    file="/evaluacionprimera/src/giti7083jaquelineacciones/Test.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="115" x="308" y="205"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="giti7083jaquelineacciones.Perro" project="evaluacionprimera" 
+    file="/evaluacionprimera/src/giti7083jaquelineacciones/Perro.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="115" x="308" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="giti7083jaquelineacciones.Mujer" project="evaluacionprimera" 
+    file="/evaluacionprimera/src/giti7083jaquelineacciones/Mujer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="115" x="955" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="giti7083jaquelineacciones.AccionesSeresVivos" project="evaluacionprimera" 
+    file="/evaluacionprimera/src/giti7083jaquelineacciones/AccionesSeresVivos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="142" x="618" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="giti7083jaquelineacciones.Gato" project="evaluacionprimera" 
+    file="/evaluacionprimera/src/giti7083jaquelineacciones/Gato.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="115" x="463" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="giti7083jaquelineacciones.AccionesHumano" project="evaluacionprimera" 
+    file="/evaluacionprimera/src/giti7083jaquelineacciones/AccionesHumano.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="144" x="1110" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <realization id="10">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <realization id="15">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="16">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
